@@ -1,0 +1,1 @@
+pyinstaller --noconsole --add-data "icon.ico;." --icon=icon.ico --onefile OS-keyboardv1.pyw
